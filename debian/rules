@@ -1,0 +1,19 @@
+
+build: build-indep build-arch
+
+build-indep:
+
+build-arch:
+
+binary: binary-arch binary-indep
+
+binary-arch:
+
+binary-indep:
+
+clean:
+
+get-orig-source:
+
+patch:
+

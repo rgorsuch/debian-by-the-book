@@ -1,0 +1,13 @@
+
+debian-by-the-book (0.0.1) wheezy sid jessie; urgency=low
+
+    * Change details.
+      More change details.
+      Note that there are lots of subtle things in here. 
+      Pay attention to whitespace, punctuation, date-formats, etc.
+
+    * Even more change details.
+      Note the two spaces after email and before the date.
+
+    -- George Washington <george@washington.gov>  1776-07-04
+
